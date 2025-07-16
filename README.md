@@ -1,4 +1,4 @@
-# Practicticing AI
+# Practicing AI
 
 ### 📘 Overview
 This project provides a hands-on introduction to three key areas of Artificial Intelligence: Traditional Machine Learning, Deep Learning, and Generative AI. Each section includes both theoretical insights and practical applications using Jupyter notebooks.
