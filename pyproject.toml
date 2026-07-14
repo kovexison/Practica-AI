@@ -1,0 +1,16 @@
+[project]
+name = "practica-ai"
+version = "0.1.0"
+description = "BMW TechWorks AI Practice"
+requires-python = ">=3.14"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "jupyter",
+    "notebook",
+    "ipykernel",
+]
