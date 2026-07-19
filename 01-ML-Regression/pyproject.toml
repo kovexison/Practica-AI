@@ -15,4 +15,5 @@ dependencies = [
     "notebook",
     "ipykernel",
     "lightgbm>=4.7.0",
+    "xgboost>=3.3.0",
 ]
