@@ -16,4 +16,6 @@ dependencies = [
     "ipykernel",
     "lightgbm>=4.7.0",
     "xgboost>=3.3.0",
+    "streamlit>=1.59.2",
+    "plotly>=6.9.0",
 ]
