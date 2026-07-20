@@ -13,4 +13,11 @@ dependencies = [
     "jupyter",
     "notebook",
     "ipykernel",
+    "streamlit",
+    "plotly",
+    "folium",
+    "streamlit-folium",
+    "branca",
+    "contextily>=1.7.1",
+    "lightgbm>=4.7.0",
 ]
