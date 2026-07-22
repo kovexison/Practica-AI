@@ -1,0 +1,20 @@
+Random Forest: MAE: 29006.15
+RMSE: 43506.06
+R²: 0.801
+
+Linear regression: MAE: 42430.49
+RMSE: 58585.19
+R²: 0.640
+
+Polynomial regression with negative values : MAE: 37152.57
+RMSE: 54011.81
+R²: 0.694
+
+Polynomial regression without negative values: MAE: 35539.92
+RMSE: 53010.91
+R²: 0.705
+
+LightGBM: MAE: 27123.15
+RMSE: 40057.36
+R²: 0.832
+
