@@ -9,3 +9,4 @@ __pycache__/
 .idea/
 
 *.pkl
+01-ML-Regression/car_price_rf_model.pkl
