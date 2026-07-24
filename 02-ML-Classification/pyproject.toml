@@ -9,5 +9,6 @@ dependencies = [
     "pandas",
     "matplotlib",
     "seaborn",
-    "scikit-learn"
+    "scikit-learn",
+    "imbalanced-learn"
 ]
