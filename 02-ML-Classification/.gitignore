@@ -32,6 +32,8 @@ __pycache__/
 *.parquet
 *.csv
 *.dat
+*.joblib
+*.pkl
 
 # -----------------------------------------------------------------------------
 # Environment Variables & Secrets
