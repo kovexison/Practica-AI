@@ -10,5 +10,6 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "scikit-learn",
-    "imbalanced-learn"
+    "imbalanced-learn",
+    "notebook"
 ]
