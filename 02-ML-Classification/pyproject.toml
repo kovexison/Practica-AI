@@ -11,5 +11,6 @@ dependencies = [
     "seaborn",
     "scikit-learn",
     "imbalanced-learn",
-    "notebook"
+    "notebook",
+    "catboost"
 ]
