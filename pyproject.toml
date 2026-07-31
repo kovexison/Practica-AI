@@ -2,7 +2,7 @@
 name = "practica-ai"
 version = "0.1.0"
 description = "BMW TechWorks AI Practice"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 
 dependencies = [
     "numpy",
@@ -20,4 +20,6 @@ dependencies = [
     "branca",
     "contextily>=1.7.1",
     "lightgbm>=4.7.0",
+    "tensorflow>=2.21.0",
+    "imbalanced-learn>=0.14.2",
 ]
