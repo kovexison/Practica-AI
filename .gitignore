@@ -14,3 +14,5 @@ __pycache__/
 *.keras
 03-DL-CNN/model.keras
 03-DL-CNN/training_history.csv
+03-DL-CNN/car_parts_model_tuned.keras
+03-DL-CNN/training_history_tuned.csv
