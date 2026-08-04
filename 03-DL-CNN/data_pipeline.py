@@ -1,10 +1,16 @@
 import tensorflow as tf
 
-# Define data augmentation block using Keras layers
+# Define data augmentation block using Keras layers.
+# Mirrors ImageDataGenerator(rotation_range=20, width_shift_range=0.1,
+# height_shift_range=0.1, zoom_range=0.15, horizontal_flip=True, fill_mode='nearest').
+# Rescaling by 1/255 is handled downstream in the pipeline, not here.
 data_augmentation = tf.keras.Sequential([
     tf.keras.layers.RandomFlip("horizontal"),
-    tf.keras.layers.RandomRotation(0.2),
-    tf.keras.layers.RandomZoom(0.2)
+    tf.keras.layers.RandomRotation(20 / 360, fill_mode='nearest'),
+    tf.keras.layers.RandomTranslation(
+        height_factor=0.1, width_factor=0.1, fill_mode='nearest'
+    ),
+    tf.keras.layers.RandomZoom(0.15, fill_mode='nearest'),
 ])
 
 def create_dataset_pipeline(directory_path, img_size=(224, 224), batch_size=32, shuffle=True, augment=False, color_mode='rgb', seed=42):
