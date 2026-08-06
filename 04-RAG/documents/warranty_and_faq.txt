@@ -1,0 +1,63 @@
+TITLE: Warranty and Frequently Asked Questions
+CATEGORY: Aftersales
+AUDIENCE: Customer facing staff
+NOTE: Simplified training material. Terms are illustrative and not a real warranty document.
+
+STANDARD VEHICLE WARRANTY
+
+The new vehicle warranty runs for 3 years with no distance limit. It covers defects in materials and
+workmanship. It does not cover wear items, damage from misuse or accident, or the consequences of
+maintenance that was not carried out.
+
+Wear items excluded from the warranty include brake pads and discs, wiper blades, tyres, clutch friction
+material and light bulbs. These are expected to be replaced during normal ownership.
+
+HIGH VOLTAGE BATTERY WARRANTY
+
+The high-voltage battery has a separate and longer warranty of 8 years or 160,000 kilometres, whichever
+occurs first.
+
+The battery warranty covers capacity retention as well as outright failure. If usable capacity falls
+below 70 percent of the original value within the warranty period, the battery is repaired or replaced.
+Gradual capacity loss above that threshold is considered normal ageing and is not a defect.
+
+Capacity is assessed using the manufacturer's diagnostic procedure. Estimates shown by third party
+applications are not accepted as evidence, because they infer capacity indirectly and vary widely.
+
+CORROSION AND PAINT
+
+Protection against rust perforation from the inside outward runs for 12 years. Paint surface defects are
+covered for 3 years. Corrosion caused by unrepaired stone chips or accident damage is not covered.
+
+WHAT CAN INVALIDATE COVER
+
+Cover can be refused where required maintenance was not performed or not documented, where the vehicle
+was modified in a way that affects the failed component, where the vehicle was used in motorsport, or
+where the odometer has been tampered with.
+
+Servicing at an independent garage does not by itself invalidate the warranty, provided the correct
+specification parts and fluids were used and the work is documented.
+
+FREQUENTLY ASKED QUESTIONS
+
+Does fast charging damage the battery? Frequent DC fast charging accelerates ageing compared with AC
+charging, but occasional use on long journeys has limited effect. Charge on AC for daily use and use DC
+when travelling.
+
+Should I charge to 100 percent? Not routinely. Charging to 80 percent for daily use reduces the time the
+pack spends at high state of charge, which is the main controllable ageing factor. Charge fully when the
+range is genuinely needed.
+
+Why is my winter range lower? Two reasons. Cabin heating consumes energy that does not move the vehicle,
+and cold cells are less efficient and briefly limit regeneration until warmed. A drop of 20 to 30 percent
+in deep cold is normal.
+
+Why did my charge take longer than expected? Charging speed depends on state of charge, battery
+temperature and how the charging station shares power between vehicles. A cold pack or a shared charging
+post will both extend the session.
+
+Is the warranty transferable? Yes. Remaining cover transfers with the vehicle to a new owner at no cost,
+which supports resale value.
+
+Do software updates cost anything? Updates that correct faults or maintain compliance are free. Optional
+feature upgrades purchased after delivery are chargeable.
