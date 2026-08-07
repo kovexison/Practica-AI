@@ -1,0 +1,17 @@
+# Ignore in module 04-RAG
+
+# Virtual environment
+.venv/
+
+# Generated FAISS vector stores (rebuilt from documents/, never commit)
+faiss_index*/
+
+# API keys - NEVER commit these
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Hugging Face model cache if redirected here
+.cache/

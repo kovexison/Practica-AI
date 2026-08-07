@@ -1,0 +1,69 @@
+TITLE: Electric Vehicle Battery and Charging Guide
+CATEGORY: Electrification
+AUDIENCE: Owners and service advisors
+NOTE: Simplified training material. Figures are illustrative and not official specifications.
+
+OVERVIEW
+
+The high-voltage battery is the single most expensive component in an electric vehicle. It stores
+energy as direct current (DC) and supplies the electric motor through an inverter. Understanding how
+the battery is charged, conditioned and protected explains most of the questions owners ask.
+
+BATTERY CAPACITY: GROSS VERSUS NET
+
+Two capacity numbers are quoted for every pack. Gross capacity is the total energy physically present
+in the cells. Net capacity, sometimes called usable capacity, is the portion the vehicle will actually
+use. A representative pack in our training fleet has a gross capacity of 83.9 kWh and a net usable
+capacity of 81.2 kWh.
+
+The difference is deliberate. The vehicle keeps a buffer at the top and bottom of the range because
+cells age fastest when held at very high or very low states of charge. Owners frequently believe the
+buffer is a defect. It is not. It is the main reason the pack still performs well after many years.
+
+CHARGING MODES
+
+AC charging draws alternating current from a wall box or public post. The onboard charger converts it
+to DC. The onboard charger is the bottleneck in AC charging, and a typical rating is 11 kW. A full
+charge from near empty on an 11 kW wall box takes approximately 8 hours and 15 minutes, which suits
+overnight charging at home.
+
+DC fast charging bypasses the onboard charger and feeds direct current straight to the pack. Peak
+rates of 205 kW are achievable under good conditions. Charging from 10 percent to 80 percent takes
+roughly 32 minutes at a suitable high-power charger.
+
+WHY CHARGING SLOWS DOWN ABOVE 80 PERCENT
+
+Charging speed is not constant. The curve tapers as the pack fills. Above roughly 80 percent state of
+charge the vehicle deliberately reduces current to protect cell chemistry and manage heat. Going from
+80 percent to 100 percent can take almost as long as going from 10 percent to 80 percent. For long
+journeys, two shorter stops to 80 percent are usually faster than one long stop to 100 percent.
+
+TEMPERATURE AND PRECONDITIONING
+
+Charging speed depends heavily on battery temperature. A cold pack accepts current slowly because
+lithium plating risk rises at low temperature. Preconditioning warms the pack while driving so that it
+arrives at the charger in its optimal window, usually between 20 and 40 degrees Celsius. When a fast
+charging stop is set as a navigation destination, preconditioning starts automatically. In cold weather
+this can cut a charging stop from over 50 minutes to close to the quoted 32 minutes.
+
+RANGE AND CONSUMPTION
+
+Quoted range figures come from standardised laboratory cycles and are useful for comparing vehicles,
+not for predicting a specific journey. Real consumption is dominated by speed, temperature and terrain.
+Aerodynamic drag rises with the square of speed, so sustained motorway driving is the largest single
+drain. Cabin heating in winter is the second largest. A heat pump reduces heating energy substantially
+compared with a resistive heater.
+
+Regenerative braking recovers energy during deceleration by running the motor as a generator. In
+stop-and-start city traffic, regeneration is why an electric vehicle often consumes less per kilometre
+in town than on the motorway, which is the opposite of a combustion vehicle.
+
+BATTERY HEALTH OVER TIME
+
+Capacity loss is normal and gradual. The main factors that accelerate it are frequent DC fast charging,
+sustained storage at 100 percent state of charge, and exposure to high ambient temperatures. For daily
+use, charging to 80 percent is recommended, reserving 100 percent for days when the full range is
+genuinely needed.
+
+The high-voltage battery is covered by a separate warranty from the rest of the vehicle. See the
+warranty document for the exact terms, including the capacity retention threshold.

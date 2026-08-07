@@ -1,0 +1,65 @@
+TITLE: Driver Assistance Systems (ADAS)
+CATEGORY: Electronics and Safety
+AUDIENCE: Sales and support staff
+NOTE: Simplified training material. Figures are illustrative and not official specifications.
+
+WHAT ADAS MEANS
+
+Advanced Driver Assistance Systems support the driver. They do not replace the driver. Every system
+described here requires the driver to remain attentive and legally responsible at all times.
+
+SENSORS
+
+Three sensor types work together. Cameras read lane markings, traffic signs, pedestrians and vehicle
+shapes; they are rich in detail but degrade in fog, heavy rain and direct low sun. Radar measures
+distance and closing speed accurately and is largely unaffected by weather, but is poor at identifying
+what an object actually is. Ultrasonic sensors cover very short distances and are used for parking.
+
+Combining them is called sensor fusion. Fusion matters because each sensor fails differently. Radar may
+detect a stationary metal object that a camera cannot classify, while a camera can read a speed limit
+sign that radar cannot perceive at all.
+
+ADAPTIVE CRUISE CONTROL
+
+Adaptive cruise control maintains a set speed and a selected following distance. When the vehicle ahead
+slows, the system decelerates. When the road clears, it returns to the set speed. Stop and go capability
+extends this to full stops in traffic; if the stop lasts under 30 seconds the vehicle resumes
+automatically, and beyond that the driver must confirm.
+
+LANE KEEPING AND STEERING ASSIST
+
+Lane departure warning alerts the driver when the vehicle drifts across a marking without indicating.
+Lane keeping assistant applies gentle steering correction to guide the vehicle back. Steering and lane
+control assistant goes further and continuously centres the vehicle within its lane.
+
+These systems depend on clear lane markings. On worn markings, in roadworks with conflicting lines, or
+in snow, availability drops and the system will hand control back. Hands-off detection ensures the
+driver stays engaged; ignoring escalating warnings causes the system to slow the vehicle and stop safely.
+
+COLLISION WARNING AND AUTOMATIC BRAKING
+
+Forward collision warning monitors closing speed to the vehicle ahead and warns visually and audibly.
+If the driver does not react, automatic emergency braking intervenes. The system is designed to reduce
+severity, and it cannot prevent every collision. Effectiveness falls as speed rises, because the
+distance needed to shed energy grows with the square of speed.
+
+BLIND SPOT AND CROSS TRAFFIC
+
+Blind spot detection uses rear-facing radar to monitor the adjacent lanes and illuminates a warning in
+the door mirror. If the indicator is active while a vehicle occupies that space, the warning escalates.
+Rear cross traffic alert warns of vehicles approaching from the side while reversing out of a space,
+which is valuable where parked vehicles block the driver's view.
+
+PARKING ASSISTANCE
+
+Parking assistant measures gaps while driving past and then controls steering, and in later versions
+also acceleration and braking, to manoeuvre into the space. Reversing assistant records the last 50
+metres travelled forward and can retrace that path in reverse, which is useful in narrow lanes.
+
+LIMITATIONS THAT MUST BE COMMUNICATED
+
+Sensors can be blinded by dirt, ice, snow or heavy spray, and the vehicle will report reduced
+availability. Windscreen replacement requires camera recalibration; an uncalibrated camera may appear to
+function while judging distances incorrectly. Aftermarket accessories mounted near sensors can obstruct
+them. Systems are validated against typical traffic scenarios and may not respond correctly to unusual
+situations such as an overturned vehicle or debris in the roadway.
