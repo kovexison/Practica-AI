@@ -1,0 +1,66 @@
+TITLE: Service and Maintenance Schedule
+CATEGORY: Aftersales
+AUDIENCE: Service advisors
+NOTE: Simplified training material. Intervals are illustrative and not official specifications.
+
+CONDITION BASED SERVICE
+
+Maintenance is not driven by a fixed calendar alone. Sensors monitor operating conditions and the
+vehicle calculates remaining service life for each item independently. A vehicle used for short cold
+journeys will need attention sooner than one used for long steady journeys over the same distance.
+
+The driver sees a due date per item in the vehicle menu. Advisors should read these values rather than
+assuming a fixed interval.
+
+TYPICAL INTERVALS
+
+Engine oil and filter are replaced at up to 30,000 kilometres or every 24 months, whichever comes first,
+and often sooner under demanding use. Brake fluid is replaced every 24 months regardless of distance,
+because it absorbs moisture from the air, which lowers its boiling point and risks vapour lock under
+heavy braking. Cabin microfilter is replaced every 30,000 kilometres or 24 months. Spark plugs are
+replaced at approximately 60,000 kilometres for turbocharged petrol engines.
+
+Brake pads and discs are wear items with no fixed interval. Sensors report remaining pad life based on
+measured wear. Front pads typically last between 25,000 and 60,000 kilometres depending on driving style
+and terrain.
+
+ELECTRIC VEHICLE DIFFERENCES
+
+Electric vehicles have no engine oil, no spark plugs, no exhaust system and no gearbox oil service on a
+single speed reduction gear. Maintenance cost is correspondingly lower.
+
+Brake wear is markedly lower because regenerative braking performs most routine deceleration. This
+creates its own problem: discs that are rarely used can corrode. Periodic firm braking, or the vehicle's
+automatic brake cleaning function, keeps the surfaces clear.
+
+Items that remain unchanged include tyres, cabin filter, brake fluid, suspension components and wiper
+blades. Tyre wear can be higher than on a comparable combustion vehicle because of greater mass and
+instant torque delivery.
+
+The high-voltage battery coolant is checked according to the vehicle's own schedule and must never be
+topped up with ordinary coolant, as the specification differs.
+
+TYRES
+
+Recommended pressures are on the door pillar label and vary by load and by tyre size. Pressure should be
+checked cold, because driving raises temperature and therefore pressure. Under-inflation increases
+rolling resistance, raises consumption, and causes shoulder wear and heat build-up.
+
+Tread depth must meet the legal minimum, commonly 1.6 millimetres, but wet grip degrades well before
+that point and replacement around 3 millimetres is advisable. Tyres age even when unused; replacement
+after approximately six years is recommended irrespective of tread depth.
+
+DIAGNOSTICS AND SOFTWARE
+
+Fault memory is read during every service visit. Many faults are intermittent and stored without
+illuminating a warning lamp, and reading the memory reveals developing problems early.
+
+Software updates are delivered over the air or installed during a service visit. Updates address
+infotainment behaviour, driver assistance calibration and charging performance. The vehicle must not be
+driven while an update is installing and should have sufficient charge or fuel to complete it.
+
+WARNING LAMP COLOURS
+
+Red indicates a serious fault; stop safely as soon as it is possible to do so. Yellow or amber indicates
+a fault that needs attention but permits careful continued driving. Green and blue are informational and
+confirm that a system is active.
