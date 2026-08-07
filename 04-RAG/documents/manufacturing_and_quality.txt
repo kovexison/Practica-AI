@@ -1,0 +1,61 @@
+TITLE: Manufacturing and Quality Control
+CATEGORY: Production
+AUDIENCE: New production staff
+NOTE: Simplified training material.
+
+THE MAIN PRODUCTION STAGES
+
+Vehicle production runs through four principal stages. In the press shop, coils of steel and aluminium
+are stamped into panels. In the body shop, several hundred panels are joined by welding, riveting and
+adhesive bonding into the body in white, largely by robots. In the paint shop, the body is cleaned,
+dipped for corrosion protection, then primed, colour coated and lacquered. In final assembly, the
+powertrain, interior, glass and electronics are installed.
+
+Battery assembly is a separate line for electric vehicles. Cells are grouped into modules, modules into
+a pack, and the pack is sealed, tested for leaks and electrically verified before it reaches the vehicle.
+
+BUILD TO ORDER
+
+Most vehicles are built to a specific customer order rather than to stock. Consecutive vehicles on the
+same line commonly differ in engine, colour, trim and equipment. This variety is the central challenge
+of the production system: every part must arrive at the right station in the right sequence.
+
+Just in sequence delivery means suppliers deliver components already ordered to match the build
+sequence, so seats for a particular vehicle arrive immediately before that vehicle reaches the station.
+The benefit is very low inventory. The cost is fragility, since a single sequencing error disrupts the
+line.
+
+QUALITY PHILOSOPHY
+
+Quality is built in rather than inspected in. Each station is responsible for the quality of its own
+work, and a defect should be prevented rather than detected later.
+
+Poka-yoke, or error proofing, designs tasks so that the wrong action is physically impossible. A
+connector that only fits one way, or a tool that will not release until the correct torque is reached,
+removes the possibility of that error rather than relying on attention.
+
+Any operator who identifies a serious problem can stop the line. Stopping is expensive, but releasing a
+known defect downstream is far more expensive, because correction cost multiplies at every subsequent
+stage and is highest once the vehicle has reached a customer.
+
+MEASUREMENT AND TESTING
+
+Body dimensions are verified on coordinate measuring machines and by in-line optical scanning. Torque
+values for safety critical fasteners are recorded automatically and stored against the vehicle
+identification number, so any joint can be audited years later.
+
+At the end of the line every vehicle passes a functional test covering electrical systems, a rolling
+road check, a wheel alignment check, and a water test for sealing. A proportion of vehicles is taken for
+a road test.
+
+TRACEABILITY
+
+Each vehicle carries a build record listing part numbers, supplier batches, software versions and
+recorded process values. If a supplier reports a defective batch, traceability identifies precisely
+which vehicles received parts from it, allowing a narrow and targeted recall rather than a broad one.
+
+CONTINUOUS IMPROVEMENT
+
+Small improvements proposed by the people doing the work accumulate into large gains over time. Warranty
+claims and end of line faults are fed back to the responsible stations, closing the loop between what
+the customer experiences and how the vehicle is built.
