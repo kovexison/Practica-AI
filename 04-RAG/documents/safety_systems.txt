@@ -1,0 +1,60 @@
+TITLE: Vehicle Safety Systems
+CATEGORY: Safety
+AUDIENCE: General staff
+NOTE: Simplified training material.
+
+PASSIVE AND ACTIVE SAFETY
+
+Passive safety reduces harm once a collision is unavoidable. Active safety works to prevent the
+collision happening at all. A modern vehicle depends on both, and the two are increasingly linked:
+sensors that detect an imminent impact can tighten seat belts and close windows before it occurs.
+
+BODY STRUCTURE
+
+The passenger compartment is a rigid safety cell built from high strength and hot formed steels. Around
+it sit deliberately softer crumple zones that deform in a controlled way, extending the duration of the
+impact and lowering the peak force reaching occupants.
+
+Electric vehicles place the battery in a reinforced enclosure within the floor. This lowers the centre of
+gravity, which substantially reduces rollover risk, and the enclosure itself contributes to side impact
+stiffness.
+
+RESTRAINTS
+
+Seat belts remain the single most effective safety device in any vehicle. Pretensioners remove slack at
+the start of an impact and load limiters then allow controlled belt payout to avoid chest injury.
+
+Airbags supplement belts and are not a substitute for them. A front airbag deploys in milliseconds and
+is designed for an occupant already restrained by a belt. Side and curtain airbags protect the torso and
+head in side impacts and during rollover.
+
+Rear facing child seats must never be fitted to a seat with an active front airbag. The passenger airbag
+must be deactivated first.
+
+ELECTRONIC STABILITY CONTROL
+
+Stability control compares the driver's steering input with the vehicle's actual rotation. When the
+vehicle begins to deviate, the system brakes individual wheels and may reduce engine torque to bring the
+path back under control. It cannot overcome physics; it works within the grip the tyres can provide.
+
+Anti-lock braking prevents wheel lock so that steering remains possible during emergency braking.
+Traction control limits wheel spin under acceleration.
+
+HIGH VOLTAGE SAFETY
+
+High voltage systems operate at several hundred volts and are lethal if handled incorrectly. Orange
+cabling identifies high voltage circuits and must never be cut, pierced or disconnected by untrained
+personnel.
+
+The system continuously monitors insulation resistance and isolates the battery automatically if a fault
+or a crash is detected. Only technicians with high voltage qualification may work on these systems, and
+only after formal de-energisation and verification.
+
+Damaged batteries carry a risk of delayed thermal runaway, which can begin hours after an incident.
+Affected vehicles are quarantined outdoors at a defined distance from buildings and other vehicles.
+
+EMERGENCY CALL
+
+The vehicle can place an emergency call automatically when a severe impact is detected, transmitting
+location and basic vehicle data. It can also be triggered manually. The system requires mobile network
+coverage to function.
