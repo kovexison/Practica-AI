@@ -12,17 +12,17 @@ dependencies = [
   "sentence-transformers>=3.0.0",
   "faiss-cpu>=1.8.0",
   "pypdf>=4.0.0",
-
   # LLM providers: Ollama is the default, the others are free-tier fallbacks
   "langchain-ollama>=0.2.0",
   "langchain-groq>=0.2.0",
   "langchain-google-genai>=2.0.0",
-
   # Notebook + visualisation + config
   "ipykernel>=6.29.0",
   "pandas>=2.2.0",
   "matplotlib>=3.9.0",
   "python-dotenv>=1.0.0",
+  "langchain-chroma>=1.1.0",
+  "chromadb>=1.5.9",
 ]
 
 [tool.uv]
