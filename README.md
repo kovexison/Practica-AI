@@ -39,8 +39,17 @@ Best practices: data augmentation, handling imbalanced datasets, common issues a
 #### 3. 🤖 Generative AI – Chatbots and Simple RAGs
 Introduction to Generative AI concepts
 
-Building simple chatbots
+Why language models hallucinate, and what Retrieval-Augmented Generation (RAG) fixes
 
-Basic Retrieval-Augmented Generation (RAG) workflows
+Embeddings, chunking, vector stores and semantic retrieval
 
-🛠 Practice: Hands-on notebook showcasing GenAI applications using accessible tools and models.
+Building a RAG pipeline end to end: ingest → split → embed → retrieve → answer
+
+Conversational RAG: handling follow-up questions and query rewriting
+
+Evaluating a RAG system and analysing its failure modes
+
+🛠 Practice: A guided notebook (`04-RAG/simple_RAG.ipynb`) that first teaches the concepts with runnable
+examples, then provides five exercise sections to build, tune, extend and evaluate your own RAG system
+over a local document collection. Runs fully offline with Ollama, or with a free-tier API if your machine
+is limited. See [`04-RAG/README.md`](./04-RAG/README.md) for setup.

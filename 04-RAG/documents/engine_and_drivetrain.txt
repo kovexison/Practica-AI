@@ -1,0 +1,67 @@
+TITLE: Engine and Drivetrain Basics
+CATEGORY: Powertrain
+AUDIENCE: New technical staff
+NOTE: Simplified training material. Figures are illustrative and not official specifications.
+
+WHAT THE DRIVETRAIN DOES
+
+The drivetrain delivers torque from the power source to the wheels. In a combustion vehicle the power
+source is an internal combustion engine. In an electric vehicle it is one or more electric motors. In a
+hybrid it is both, coordinated by control software.
+
+COMBUSTION ENGINE LAYOUTS
+
+Our training fleet covers three layouts. The inline four cylinder is compact and efficient and is used
+in entry and mid-range models. The inline six is longer but exceptionally smooth, because its firing
+order naturally cancels primary and secondary vibration, which is why it needs no balancer shafts. The
+V8 is used where high output matters more than packaging efficiency.
+
+TURBOCHARGING
+
+A turbocharger uses exhaust gas to spin a turbine, which drives a compressor that forces additional air
+into the cylinders. More air allows more fuel, and therefore more power from a given displacement. This
+is why a modern turbocharged two litre engine can outperform an older naturally aspirated three litre.
+
+Turbo lag is the delay between the driver requesting power and the turbo delivering boost. Twin-scroll
+housings and smaller, lighter turbine wheels reduce it. Some engines use two turbochargers of different
+sizes, a small one for low engine speeds and a large one for high engine speeds.
+
+TORQUE AND POWER
+
+These are commonly confused. Torque is rotational force and determines how strongly the vehicle
+accelerates at a given moment. Power is the rate at which work is done and determines how the
+acceleration is sustained as speed rises. Power is derived from torque and engine speed. An engine can
+produce high torque at low revolutions and still be modest in peak power.
+
+Electric motors produce maximum torque from a standstill, because torque depends on current rather than
+on airflow through cylinders. This is why electric vehicles feel immediately responsive from rest even
+when their headline power figure is unremarkable.
+
+TRANSMISSIONS
+
+The eight speed automatic transmission is standard across most combustion models. It uses a torque
+converter to allow the engine to idle while the vehicle is stationary, with a lock-up clutch that closes
+at cruising speed to remove slip and improve efficiency.
+
+Most electric vehicles need only a single speed reduction gear. An electric motor produces useful torque
+across a very wide speed range, so multiple ratios add cost and weight for little benefit.
+
+ALL WHEEL DRIVE
+
+All wheel drive distributes torque between front and rear axles for traction. In combustion vehicles a
+transfer case with a multi-plate clutch varies the split continuously, sending most torque rearward in
+normal driving and shifting it forward when slip is detected.
+
+Electric all wheel drive is achieved differently. A separate motor drives each axle and the split is
+controlled purely in software, with no mechanical connection between the axles. Response is faster
+because current can be changed in milliseconds, far quicker than a clutch pack can react.
+
+HYBRID CONFIGURATIONS
+
+A mild hybrid uses a small electric machine, typically 48 volts, to assist the engine and to enable
+smooth stop-start. It cannot drive the vehicle alone.
+
+A plug-in hybrid has a larger battery and can drive on electricity alone for a meaningful distance,
+commonly 50 to 90 kilometres, before the engine is required. It is charged from an external supply.
+The benefit is realised only if the owner actually charges it; an uncharged plug-in hybrid carries the
+weight of both systems while using only one.
