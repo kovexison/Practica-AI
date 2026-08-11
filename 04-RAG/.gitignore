@@ -1,13 +1,5 @@
-# Ignore in module 04-RAG
-
-# Virtual environment
-.venv/
-
 # Generated FAISS vector stores (rebuilt from documents/, never commit)
 faiss_index*/
-
-# API keys - NEVER commit these
-.env
 
 # Python caches
 __pycache__/
@@ -15,3 +7,73 @@ __pycache__/
 
 # Hugging Face model cache if redirected here
 .cache/
+
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+.env.local
+.env.*.local
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+
+.ipynb_checkpoints
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
